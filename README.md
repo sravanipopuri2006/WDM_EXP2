@@ -42,6 +42,7 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
+![image](https://github.com/user-attachments/assets/a1166ea9-77e0-40a4-8ace-a25840ae242c)
 
 
 ### Procedure for Association Rules:
@@ -53,5 +54,7 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+![image](https://github.com/user-attachments/assets/3d977f8e-e9a1-4709-b59f-ed6a04aef385)
 
 ### RESULT: 
+The association rules were successfully generated for the employee dataset using the Apriori Algorithm in WEKA. These rules help in identifying patterns such as which age groups and income levels are more likely to buy computers.
